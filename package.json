@@ -1,0 +1,29 @@
+<ResList version="1.0.273" tag="">
+	<Res filename="GameAssembly.dll" filesize="58943008" md5="5d089db7b9fc806aaa6e725ff3535c0d"/>
+	<Res filename="tinaxCache/VFS_VDisk/Criware/Bgm.cpk" filesize="322667432" md5="0b8712b76e9392c65e6b5a2379e806b0"/>
+	<Res filename="tinaxCache/VFS_VDisk/Criware/Sfx.cpk" filesize="238597240" md5="d899a1618c885e46380e2da855fbd687"/>
+	<Res filename="tinaxCache/VFS_VDisk/Criware/Voice.cpk" filesize="190983664" md5="0d3ceb756bc056d551cf732481daa79b"/>
+	<Res filename="tinaxCache/VFS_VDisk/Movie/Fight/Afnr02_Skill1.usm" filesize="73521824" md5="f0e45618c64ff3381975d855f2eccee3"/>
+	<Res filename="tinaxCache/VFS_VDisk/Movie/Fight/Afnr02_Skill2.usm" filesize="64258752" md5="3d89149a9e7c44fa45c62ee0c46c19b2"/>
+	<Res filename="tinaxCache/VFS_VDisk/Movie/Fight/Fsly_Unique_03.usm" filesize="57735008" md5="3f8d73a9d6e5fe706bbcae088e333f48"/>
+	<Res filename="tinaxCache/VFS_VDisk/Movie/Fight/KLD_yuanzheng3.usm" filesize="54904416" md5="c5867a70270b28dccceb883a636f3b55"/>
+	<Res filename="tinaxCache/VFS_VDisk/Movie/Fight/Ymjd03_S1_Skill6.usm" filesize="64290336" md5="6b64ec18e22bc76bcbe06cdf620529f0"/>
+	<Res filename="tinaxCache/VFS_VDisk/Movie/Fight/Ymjd_S2_Skill10_3.usm" filesize="115145760" md5="eab9fc948087f313b1e70559084ad641"/>
+	<Res filename="tinaxCache/VFS_VDisk/Movie/Fight/Ymjd_S2_Skill4.usm" filesize="81142656" md5="44f6cd59343a5d6e9ee13639f5008532"/>
+	<Res filename="tinaxCache/VFS_VDisk/Movie/Plot/Plot_01_001.usm" filesize="267811168" md5="01de9d7188f94f0f9b743c8b071ee282"/>
+	<Res filename="tinaxCache/VFS_VDisk/Movie/Plot/Plot_03_FslyFight.usm" filesize="95853952" md5="3a93f3d21f97d40c59129f0627d22557"/>
+	<Res filename="tinaxCache/VFS_VDisk/Movie/Plot/Plot_03_YmjdSwallow.usm" filesize="64456416" md5="f1068b8f127510f69219a1c5d9a9f8a6"/>
+	<Res filename="tinaxCache/VFS_VDisk/Movie/Plot/Plot_05_1YmjdHurt.usm" filesize="70969760" md5="977f209ec5736f444294abb7b352146d"/>
+	<Res filename="tinaxCache/VFS_VDisk/Movie/Plot/Plot_05_3YmjdTun.usm" filesize="53815712" md5="31ea50b393f7d2a613dcef98c0f16c83"/>
+	<Res filename="tinaxCache/VFS_VDisk/Movie/Plot/Plot_06_AfterZyxt.usm" filesize="79180448" md5="81398794c9b1e4a75e323b5af4b8df11"/>
+	<Res filename="tinaxCache/VFS_VDisk/Movie/Plot/Plot_07_NewLand.usm" filesize="64333056" md5="1027f4ac37616862852d7d3ed52f60db"/>
+	<Res filename="tinaxCache/VFS_VDisk/Movie/Plot/Plot_08_JdysFire.usm" filesize="55061632" md5="3bd1efb7a97d65de1acfb20b772aab9e"/>
+	<Res filename="tinaxCache/VFS_VDisk/Movie/UI/Beginner_01.usm" filesize="75783232" md5="15d43c3d53f2dd4a5ebc533a950fee38"/>
+	<Res filename="tinaxCache/VFS_VDisk/Movie/UI/Draw_AD_01.usm" filesize="70742624" md5="f93aed8314c17ec0f86f2c745b867c5f"/>
+	<Res filename="tinaxCache/VFS_VDisk/vfs_root/assets/_artresources/prefabs/characters/yt04/yt04.prefab.xab" filesize="54225600" md5="5b68b5ccf7832dfa53d972ca78d1754d"/>
+	<Res filename="tinaxCache/VFS_VDisk/vfs_root/assets/_artresources/prefabs/environment/resource/plot/plot_platform01.prefab.xab" filesize="92802636" md5="8f7ebdd3c6feba68cc3c4adbb604ee7b"/>
+	<Res filename="tinaxCache/VFS_VDisk/vfs_root/shared_2a42eeb7.data" filesize="58708043" md5="086f590cf932d65d1801bb682afe8bc2"/>
+	<Res filename="tinaxCache/VFS_VDisk/vfs_root/shared_440d0373.data" filesize="76698224" md5="eba68390cf39f67e081e4eb7e750192d"/>
+	<Res filename="tinaxCache/VFS_VDisk/vfs_root/shared_53bc9c11.data" filesize="55765545" md5="0a945114062b5b93d26ae1573a970d6f"/>
+	<Res filename="tinaxCache/VFS_VDisk/vfs_root/shared_7f2780b2.data" filesize="56327354" md5="02ffa2289155fbfe1f17933c3ac67fee"/>
+	<Package>
