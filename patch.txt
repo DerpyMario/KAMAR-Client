@@ -1,0 +1,7 @@
+https://patchma2.iwplay.com.tw/clientRes/Formal_TW_PC_OB1/Version/Windows/version/1.0.273/ResList.zip
+
+https://patchma1.iwplay.com.tw/clientRes/Formal_TW_PC_OB1/Version/Windows/config.xml
+
+https://patchma1.iwplay.com.tw/clientRes/Formal_TW_PC_OB1/Res/0/01978d6db6310cbdef2ea393568012b0.16425965
+
+https://patchma1.iwplay.com.tw/clientRes/Formal_TW_PC_OB1/Res/1/15267bb7fd60e9f58d60897fff328119.19903864
