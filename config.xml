@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<config>
+	<AppVersion>0.0</AppVersion>
+	<ResVersion>1.0.273</ResVersion>
+	<UpdateResVersion>0.0</UpdateResVersion>
+	<Section>1.0</Section>
+	<ResSize>29208399367</ResSize>
+	<Hash>cbfd48</Hash>
+	<BaseVerson appVersion="0.0"/>
+	<Extra>
+		<speed>50</speed>
+		<maxThreadCnt>5</maxThreadCnt>
+		<minThreadCnt>1</minThreadCnt>
+		<tagTaskThreadCnt>2</tagTaskThreadCnt>
+		<diffHash>4c7d194434f25f1f84daacf3412c26f5</diffHash>
+		<listHash>7cac129a0490940b0c71ff8dc56cd861</listHash>
+		<playAssetsTimeout>20</playAssetsTimeout>
+		<Devices>
+			<d name="47ea34e1844be3487a3ea479debe439e_88aedd13d942"/>
+			<d name="6cf1752d4e8ad4655e39838b01caf673_e89c251069c5"/>
+			<d name="de47fe9f1ed2e3a2c1e37af63ed44827_50ebf6b8df12"/>
+			<d name="c5686f58932f41155e0e31dc1a43b9ba_7c10c9225a59"/>
+			<d name="b91b979407d602b003723f05e9c1d32f_107c61630905"/>
+			<d name="90ec6958-d424-48bc-9068-bf52db179780"/>
+			<d name="6cf1752d4e8ad4655e39838b01caf673_e89c250ed7de"/>
+			<d name="d6786546f77bb554dccf28c590d1170f_581122a8a942"/>
+			<d name="3ac25c94c55417f5fbba17b14bda054d_50ebf6227d5b"/>
+			<d name="94d633df92fa36eb0d537e5e82de7646_50ebf6b8df12"/>
+			<d name="06f6c3f5e006ac50a44447540b948844_d45d64262fda"/>
+			<d name="aebf2baf35feac975be64b66c2874f46_3c7c3fc0b1ad"/>
+		</Devices>
+		<Compressed>1</Compressed>
+		<Encrypt>1</Encrypt>
+	</Extra>
+</config>
